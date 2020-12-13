@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Enyichi's Github Stats](https://github-readme-stats.vercel.app/api?username=enyichiaagu&theme=dark&show_icons=true)
+![Enyichi's Github Stats](https://github-readme-stats.vercel.app/api?username=enyichiaagu&theme=react&show_icons=true)
 
 
 <!--
