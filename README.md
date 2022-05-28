@@ -36,8 +36,8 @@ with a simple user interface that can be assessed with any device.</p>
 <p>Implemented the frontend functionality for the bot</p>
 <img height="200px" alt="Chatbot" src="https://drive.google.com/uc?export=view&id=12ZlipHieuRC6tcRaLI5s4plTSC7cau2z"/>
 
-**Deploy:** https://color-gradient-generator.netlify.app  
-**Source Code:** https://dan-chatbot.herokuapp.com
+**Deploy:** https://dan-chatbot.herokuapp.com  
+**Source Code:** https://github.com/enyichiaagu/dan-chatbot
 
 [See more...](https://github.com/enyichiaagu?tab=repositories)
 
