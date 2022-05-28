@@ -3,9 +3,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/enyichiaagu](https://github.com/enyichiaagu)
 
-- 📝 I regularly write articles on [[Openreplay Blog](https://blog.openreplay.com/authors/amazing-enyichi-agu)]([Openreplay Blog](https://blog.openreplay.com/authors/amazing-enyichi-agu))
+- 📝 I regularly write articles on [Openreplay Blog](https://blog.openreplay.com/authors/amazing-enyichi-agu)
 
-- 📫 How to reach me **enyichiaagu@gmail.com**
+- 📫 Reach me on **enyichiaagu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
