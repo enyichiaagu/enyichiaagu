@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Enyichi</h1>
+<h1 align="center">Hello 👋, I'm Amazing</h1>
 <h3 align="center">MERN Stack Web Developer, Technical Writer and Imagineer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/enyichiaagu](https://github.com/enyichiaagu)
