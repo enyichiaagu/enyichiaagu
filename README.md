@@ -8,10 +8,13 @@
 - 📫 Reach me on **enyichiaagu@gmail.com**
 
 <h3 align="center">Projects</h3>
+
+<h4>Crypto CLI</h4>
+<p>Crypto CLI is a command line application built with React JS and Ink 3. The app displays Live prices of 10 different cryptocurrencies in Nigerian Naira(NGN) and United States Dollar(USD)</p>
+<img height="200px" alt="Crypto Cli" src="https://drive.google.com/uc?export=view&id=1YEa7U7SzpPRuAWTg5xyl8d_PtiQeKaHn"/>
+
 <h4>Linx</h4>
-<p>I built this project because I was having problems with saving my
-favorite resources on the internet in one place. Linx is a bookmarker
-with a simple user interface that can be assessed with any device.</p>
+<p>I built this project because I was having problems with saving my favorite resources on the internet in one place. Linx is a bookmarker with a simple user interface that can be assessed with any device.</p>
 <img height="200px" alt="Linx" src="https://drive.google.com/uc?export=view&id=1zXXhOl-MAxrs5wtqzmFIOcQEGAhp0tZY"/>
 
 **Deploy:** https://linxio.netlify.app  
