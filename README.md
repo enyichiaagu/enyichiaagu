@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Amazing</h1>
+<!-- <h1 align="center">Hello 👋, I'm Amazing</h1>
 <h3 align="center">MERN Stack Web Developer, Technical Writer and Imagineer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/enyichiaagu](https://github.com/enyichiaagu)
@@ -13,29 +13,29 @@
 <p>I built this project because I was having problems with saving my favorite resources on the internet in one place. Linx is a bookmarker with a simple user interface that can be assessed with any device.</p>
 <img height="200px" alt="Linx" src="https://drive.google.com/uc?export=view&id=1zXXhOl-MAxrs5wtqzmFIOcQEGAhp0tZY"/>
 
-**Deploy:** https://linxio.netlify.app  
-**Source Code (Frontend):** https://github.com/enyichiaagu/linx   
+**Deploy:** https://linxio.netlify.app
+**Source Code (Frontend):** https://github.com/enyichiaagu/linx
 **Source Code (Backend):** https://github.com/enyichiaagu/linx-server
 
 <h4>Flames</h4>
 <p>Flames is a simple fun game that matches couple names</p>
 <img height="200px" alt="Flames" src="https://drive.google.com/uc?export=view&id=1Pz30C99rbbD9wfRNQ8deIADknv0WYgnT"/>
 
-**Deploy:** https://yichflames.netlify.app  
-**Source Code:** https://github.com/enyichiaagu/flames-the-love-game   
+**Deploy:** https://yichflames.netlify.app
+**Source Code:** https://github.com/enyichiaagu/flames-the-love-game
 
 <h4>Gradient Generator</h4>
 <p>This is a basic app for generating css color gradients for websites and web apps. It accepts up to five color combinations and displays them in four different directions.</p>
 <img height="200px" alt="Gradient Generator" src="https://drive.google.com/uc?export=view&id=1Sj1rrEDylalRkI-7iRq6EuHXG8IJb4ny"/>
 
-**Deploy:** https://color-gradient-generator.netlify.app  
-**Source Code:** https://github.com/enyichiaagu/gradient-generator 
+**Deploy:** https://color-gradient-generator.netlify.app
+**Source Code:** https://github.com/enyichiaagu/gradient-generator
 
 <h4>Chatbot</h4>
 <p>Implemented the frontend functionality for the bot</p>
 <img height="200px" alt="Chatbot" src="https://drive.google.com/uc?export=view&id=12ZlipHieuRC6tcRaLI5s4plTSC7cau2z"/>
 
-**Deploy:** https://dan-chatbot.herokuapp.com  
+**Deploy:** https://dan-chatbot.herokuapp.com
 **Source Code:** https://github.com/enyichiaagu/chat_bot
 
 [See more...](https://github.com/enyichiaagu?tab=repositories)
@@ -51,3 +51,4 @@
 <a href="https://twitter.com/enyichia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="enyichia" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/enyichiaagu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enyichiaagu" height="30" width="40" /></a>
 </p>
+-->
